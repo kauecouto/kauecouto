@@ -1,7 +1,8 @@
 # Olá! Eu sou Kaue Couto 
 
 <p> 
-   Tenho 18 anos e desenvolvo aplicações web com tecnologias voltadas ao <strong>Front-End</strong>.<br>
+   Desenvolvedor de software Front-End, com experiência em desenvolvimento de aplicações com Angular e todo ecossistema cliente-side, realizando integrações com API's e Web Services. Trabalho no modelo ágil (Scrum), com domínio do jira, visando sempre a qualidade, e a experiência do usuário.
+
 </p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauecouto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
